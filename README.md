@@ -46,7 +46,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import cosd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cosd@deno/mod.js';
+import cosd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cosd@v0.1.0-deno/mod.js';
 ```
 
 #### cosd( x )
@@ -79,7 +79,7 @@ v = cosd( NaN );
 
 ```javascript
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@deno/mod.js';
-import cosd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cosd@deno/mod.js';
+import cosd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cosd@v0.1.0-deno/mod.js';
 
 var x = linspace( -180, 180, 100 );
 
