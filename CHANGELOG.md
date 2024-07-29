@@ -2,15 +2,15 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.2.0">
 
-## Unreleased (2024-06-23)
+## 0.2.0 (2024-07-29)
 
 <section class="features">
 
 ### Features
 
--   [`c811882`](https://github.com/stdlib-js/stdlib/commit/c8118827f71ca602ccfea2721df03afbbd3857e5) - add C implementation for `math/base/special/cosd` [(##2393)](#2393)
+-   [`c811882`](https://github.com/stdlib-js/stdlib/commit/c8118827f71ca602ccfea2721df03afbbd3857e5) - add C implementation for `math/base/special/cosd` [(#2393)](https://github.com/stdlib-js/stdlib/pull/2393)
 
 </section>
 
@@ -22,9 +22,11 @@
 
 <details>
 
+-   [`272ae7a`](https://github.com/stdlib-js/stdlib/commit/272ae7ac5c576c68cfab1b6e304c86407faa20cd) - **docs:** remove comment _(by Athan Reines)_
+-   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
 -   [`e26363d`](https://github.com/stdlib-js/stdlib/commit/e26363d5a9df20243c6be186bbf63017517c5839) - **chore:** update package meta data [(#2439)](https://github.com/stdlib-js/stdlib/pull/2439) _(by stdlib-bot, Athan Reines)_
 -   [`377403b`](https://github.com/stdlib-js/stdlib/commit/377403b1ecb696a54e038b8750efd09481fe3ba0) - **test:** add missing tests for `math/base/special/cosd` [(#2418)](https://github.com/stdlib-js/stdlib/pull/2418) _(by Gunj Joshi)_
--   [`c811882`](https://github.com/stdlib-js/stdlib/commit/c8118827f71ca602ccfea2721df03afbbd3857e5) - **feat:** add C implementation for `math/base/special/cosd` [(##2393)](#2393) _(by Gunj Joshi)_
+-   [`c811882`](https://github.com/stdlib-js/stdlib/commit/c8118827f71ca602ccfea2721df03afbbd3857e5) - **feat:** add C implementation for `math/base/special/cosd` [(#2393)](https://github.com/stdlib-js/stdlib/pull/2393) _(by Gunj Joshi)_
 
 </details>
 
