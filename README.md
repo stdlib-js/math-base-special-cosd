@@ -46,6 +46,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import cosd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cosd@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-cosd/tags). For example,
+
+```javascript
 import cosd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cosd@v0.2.0-esm/index.mjs';
 ```
 
@@ -84,7 +89,7 @@ v = cosd( NaN );
 <script type="module">
 
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@esm/index.mjs';
-import cosd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cosd@v0.2.0-esm/index.mjs';
+import cosd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cosd@esm/index.mjs';
 
 var x = linspace( -180, 180, 100 );
 
