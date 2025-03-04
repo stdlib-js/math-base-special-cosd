@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-14)
+## Unreleased (2025-03-04)
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`b947812`](https://github.com/stdlib-js/stdlib/commit/b947812d45606e52f8f3e0ab22f6355f59eb1c49) - update `math/base/special/cosd` to match correct reference implementation [(#5473)](https://github.com/stdlib-js/stdlib/pull/5473)
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`b947812`](https://github.com/stdlib-js/stdlib/commit/b947812d45606e52f8f3e0ab22f6355f59eb1c49) - **fix:** update `math/base/special/cosd` to match correct reference implementation [(#5473)](https://github.com/stdlib-js/stdlib/pull/5473) _(by Karan Anand, Gunj Joshi)_
 -   [`8a5caba`](https://github.com/stdlib-js/stdlib/commit/8a5caba090beccf502d1d66e31e5c7986dc52e3a) - **docs:** update related packages sections [(#4739)](https://github.com/stdlib-js/stdlib/pull/4739) _(by stdlib-bot)_
 -   [`b89c97c`](https://github.com/stdlib-js/stdlib/commit/b89c97ce0b812ff0b2aab16b4d77969d44fe3e8c) - **docs:** resolve lint errors in TS declaration files _(by Philipp Burckhardt)_
 
@@ -25,8 +36,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Gunj Joshi
+-   Karan Anand
 -   Philipp Burckhardt
 
 </section>
