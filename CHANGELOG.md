@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`ba0637b`](https://github.com/stdlib-js/stdlib/commit/ba0637b9a4bae1689e15af9afb262de249764881) - **test:** add tests for IEEE 754-2019 compliance [(#6597)](https://github.com/stdlib-js/stdlib/pull/6597) _(by Karan Anand)_
 -   [`1bb6df3`](https://github.com/stdlib-js/stdlib/commit/1bb6df3267f4100a30d0c71c05197716cd314fda) - **docs:** replace manual `for` loop in examples [(#6611)](https://github.com/stdlib-js/stdlib/pull/6611) _(by Harsh)_
 -   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
 -   [`6187773`](https://github.com/stdlib-js/stdlib/commit/6187773d4d95c73e0e8a8f6c43dcd53d5323f9d2) - **bench:** update random value generation [(#6298)](https://github.com/stdlib-js/stdlib/pull/6298) _(by Harsh)_
