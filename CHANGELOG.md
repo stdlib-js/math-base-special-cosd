@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-25)
+## Unreleased (2026-01-01)
 
 <section class="bug-fixes">
 
@@ -22,11 +22,12 @@
 
 <details>
 
+-   [`a55e19f`](https://github.com/stdlib-js/stdlib/commit/a55e19f3343b4a34486a5c109805bbc52e4dbb16) - **test:** replace t.true with t.strictEqual so tests actually check main export _(by Philipp Burckhardt)_
 -   [`2ff3d13`](https://github.com/stdlib-js/stdlib/commit/2ff3d13bfb0ee44c6fb4fbdaea0a32013cf30bc5) - **chore:** add structured package data for `math/base/special/cosd` [(#7963)](https://github.com/stdlib-js/stdlib/pull/7963) _(by Nakul Krishnakumar, Athan Reines)_
 -   [`ba0637b`](https://github.com/stdlib-js/stdlib/commit/ba0637b9a4bae1689e15af9afb262de249764881) - **test:** add tests for IEEE 754-2019 compliance [(#6597)](https://github.com/stdlib-js/stdlib/pull/6597) _(by Karan Anand)_
--   [`1bb6df3`](https://github.com/stdlib-js/stdlib/commit/1bb6df3267f4100a30d0c71c05197716cd314fda) - **docs:** replace manual `for` loop in examples [(#6611)](https://github.com/stdlib-js/stdlib/pull/6611) _(by Harsh)_
+-   [`1bb6df3`](https://github.com/stdlib-js/stdlib/commit/1bb6df3267f4100a30d0c71c05197716cd314fda) - **docs:** replace manual `for` loop in examples [(#6611)](https://github.com/stdlib-js/stdlib/pull/6611) _(by Harsh Yadav)_
 -   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
--   [`6187773`](https://github.com/stdlib-js/stdlib/commit/6187773d4d95c73e0e8a8f6c43dcd53d5323f9d2) - **bench:** update random value generation [(#6298)](https://github.com/stdlib-js/stdlib/pull/6298) _(by Harsh)_
+-   [`6187773`](https://github.com/stdlib-js/stdlib/commit/6187773d4d95c73e0e8a8f6c43dcd53d5323f9d2) - **bench:** update random value generation [(#6298)](https://github.com/stdlib-js/stdlib/pull/6298) _(by Harsh Yadav)_
 -   [`b947812`](https://github.com/stdlib-js/stdlib/commit/b947812d45606e52f8f3e0ab22f6355f59eb1c49) - **fix:** update `math/base/special/cosd` to match correct reference implementation [(#5473)](https://github.com/stdlib-js/stdlib/pull/5473) _(by Karan Anand, Gunj Joshi)_
 -   [`8a5caba`](https://github.com/stdlib-js/stdlib/commit/8a5caba090beccf502d1d66e31e5c7986dc52e3a) - **docs:** update related packages sections [(#4739)](https://github.com/stdlib-js/stdlib/pull/4739) _(by stdlib-bot)_
 -   [`b89c97c`](https://github.com/stdlib-js/stdlib/commit/b89c97ce0b812ff0b2aab16b4d77969d44fe3e8c) - **docs:** resolve lint errors in TS declaration files _(by Philipp Burckhardt)_
@@ -45,7 +46,7 @@ A total of 6 people contributed to this release. Thank you to the following cont
 
 -   Athan Reines
 -   Gunj Joshi
--   Harsh
+-   Harsh Yadav
 -   Karan Anand
 -   Nakul Krishnakumar
 -   Philipp Burckhardt
