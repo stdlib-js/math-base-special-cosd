@@ -46,6 +46,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import cosd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cosd@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-cosd/tags). For example,
+
+```javascript
 import cosd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cosd@v0.2.1-esm/index.mjs';
 ```
 
@@ -85,7 +90,7 @@ v = cosd( NaN );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import cosd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cosd@v0.2.1-esm/index.mjs';
+import cosd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cosd@esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
