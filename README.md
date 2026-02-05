@@ -46,7 +46,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import cosd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cosd@esm/index.mjs';
+import cosd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cosd@v0.2.2-esm/index.mjs';
 ```
 
 #### cosd( x )
@@ -85,7 +85,7 @@ v = cosd( NaN );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import cosd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cosd@esm/index.mjs';
+import cosd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cosd@v0.2.2-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
