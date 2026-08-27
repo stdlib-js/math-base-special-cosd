@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`1ad5851`](https://github.com/stdlib-js/stdlib/commit/1ad585103d22754bf57382ef241e5f71edcbb12e) - **docs:** add equations [(#14683)](https://github.com/stdlib-js/stdlib/pull/14683) _(by Karan Anand)_
 -   [`6df71ed`](https://github.com/stdlib-js/stdlib/commit/6df71ed6790928e149b924ff37aeda425273b5fb) - **test:** migrate `math/base/special/cosd` to ULP-based testing [(#13704)](https://github.com/stdlib-js/stdlib/pull/13704) _(by Philipp Burckhardt)_
 -   [`b953edd`](https://github.com/stdlib-js/stdlib/commit/b953edd95d0ca1b521d0abbd2c2719d099ff7807) - **refactor:** use `constants/float64/nan` and clean-up [(#13585)](https://github.com/stdlib-js/stdlib/pull/13585) _(by Philipp Burckhardt)_
 -   [`c73c8b3`](https://github.com/stdlib-js/stdlib/commit/c73c8b39bd76529182ea2b3423c6f0feab434774) - **bench:** refactor to use string interpolation in `math/base/special` [(#11387)](https://github.com/stdlib-js/stdlib/pull/11387) _(by Karan Anand)_
